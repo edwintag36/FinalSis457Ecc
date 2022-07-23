@@ -1,0 +1,15 @@
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\bin\Debug\ClnECC.dll.config
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\bin\Debug\ClnECC.dll
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\bin\Debug\ClnECC.pdb
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\bin\Debug\CadECC.dll
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\bin\Debug\EntityFramework.dll
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\bin\Debug\EntityFramework.SqlServer.dll
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\bin\Debug\CadECC.pdb
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\bin\Debug\CadECC.dll.config
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\bin\Debug\EntityFramework.xml
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\bin\Debug\EntityFramework.SqlServer.xml
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\obj\Debug\ClnECC.csproj.AssemblyReference.cache
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\obj\Debug\ClnECC.csproj.CoreCompileInputs.cache
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\obj\Debug\ClnECC.csproj.CopyComplete
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\obj\Debug\ClnECC.dll
+E:\sis457_INF\sis457ecc\LabFinalECC\ClnECC\obj\Debug\ClnECC.pdb
